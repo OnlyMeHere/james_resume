@@ -2,15 +2,10 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div className='container-fluid' >
+    <div className='container text-center'>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+      My varied experience gives me a resilient outlook on life. I see the common threads of Hard Work, Perseverance, Patience and Positive Attitude running through every successful business I've worked with. They are the foundation of my mode of operation. I seek those qualities in my coworkers and reflect them back in a positive feedback loop. My goal is to help others achieve greatness and in doing so I derive great satisfaction.
       </p>
     </div>
   );
