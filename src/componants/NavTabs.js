@@ -1,7 +1,9 @@
 import React from 'react';
 
-// Here we are using object destructuring assignment to pluck off our variables from the props object
-// We assign them to their own variable names
+// The function below calls on the variables from the props object using object destructuring
+// They are assigned to their own variable names
+
+
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
@@ -9,8 +11,9 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#home"
           onClick={() => handlePageChange('Home')}
-          // This is a conditional (ternary) operator that checks to see if the current page is "Home"
-          // If it is, we set the current page to 'nav-link-active', otherwise we set it to 'nav-link'
+
+          //This conditional operator check if the current page is 'Home', if so it renders the Home Page
+          
           className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
         >
           Home
