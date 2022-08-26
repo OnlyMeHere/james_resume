@@ -10,6 +10,10 @@ Just a few words words of my journey of knowledge
 * JavaScript
 * Bootstrap
 
+## Repository on GitHub:
+
+[james_resume](https://github.com/OnlyMeHere/james_resume)
+
 ## License:
 <br>
 
