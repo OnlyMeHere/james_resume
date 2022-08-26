@@ -5,7 +5,7 @@ export default function Contact() {
     <div className='container text-center'>
       <div className='row'>
         <div className='col align-self-start'>
-          <h1>Contact Page</h1>
+          <h2>Contact Page</h2>
         </div>
       </div>
       <div className='row'>

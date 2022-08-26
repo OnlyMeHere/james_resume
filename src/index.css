@@ -1,7 +1,12 @@
 header {
   margin: 0;
-  height: 20rem;
+  height: 7rem;
+  text-align: center;
   background: blue;
+}
+
+h1 {
+  color: white;
 }
 
 body {
