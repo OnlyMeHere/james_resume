@@ -31,7 +31,8 @@ The foundation of this app was built by the ```npx create-react-app``` that made
 
 ## Gif of Site in Action:
 
-[Click here for Google Drive Link](https://drive.google.com/file/d/1h2mfhzxrRR_hRKTqoN7YhwCskk1MnXr2/view)
+
+
 
 ## Code Snippet of Significance:
 
